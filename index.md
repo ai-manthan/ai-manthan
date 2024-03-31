@@ -2,7 +2,9 @@
 layout: default
 ---
 
-# Why AI Manthan?
+
+
+
 AI Manthan is a community envisioned to empower individuals and organizations to ethically harness AI for solving business challenges to create a sustainable and equitable future for all.
 
 * * *
